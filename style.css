@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3e5f5;
+    margin: 0;
+    padding: 0;
+    color: #212121;
+}
+
+header {
+    background-color: #7b1fa2;
+    padding: 2rem;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+.jogo {
+    margin-bottom: 2rem;
+    background-color: #e1bee7;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.jogo img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #7b1fa2;
+    text-align: center;
+    padding: 1rem;
+    color: white;
+}
